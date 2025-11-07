@@ -36,4 +36,4 @@ It aims to help businesses make data-driven decisions by understanding which pro
 ## Recommendations
 - Optimize discount strategy to balance sales and profit. 
 - Focus marketing on high-profit regions and categories.
-- Make marketing campaigns target more females.
+- Make marketing campaigns targeting more females.
